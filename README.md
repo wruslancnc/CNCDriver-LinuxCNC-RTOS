@@ -1,2 +1,9 @@
 # CNCDriver-LinuxCNC-RTOS
-This repo describes the activities of driving pulses to run the CNC milling machine.
+
+Desktop computer driver running LinuxCNC sending signals driving the CNC milling machine using the IEEE-1284 parallel port. IEEE 1284 is a standard that defines bi-directional parallel communications between computers and other devices. 
+
+![](CNCDriver-screenshots/Parallel-Port-Card-Screenshot.png)
+
+Wassalam.
+WRY
+
